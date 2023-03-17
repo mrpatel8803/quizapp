@@ -31,7 +31,7 @@ section
 {
     width: 6rem;
     margin-top: 1rem;
-    background-color: rgb(98, 98, 105);
+    background-color: rgb(208, 127, 96);
     color: rgb(20,20,20);
     border: none;
     height: 1.5rem;
@@ -107,7 +107,7 @@ form .option:hover
     margin-top: 20px;
     padding: 10px;
     font-size: 1.3rem;
-    background-color: rgb(98,100,105);
+    background-color: rgb(98, 133, 220);
     border: none;
     outline: none;
     color: rgb(20,20,20);
@@ -121,7 +121,7 @@ form .option:hover
     margin-top: 20px;
     padding: 10px;
     font-size: 1.3rem;
-    background-color: rgb(98,100,105);
+    background-color: rgb(98, 100, 105);
     border: none;
     outline: none;
     color: rgb(20,20,20);

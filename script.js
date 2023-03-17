@@ -2,11 +2,11 @@
 let quiz =
 [
     {
-        question: "Which of the following can read and render HTML web pages",
-        a: "Server",
-        b: "head Tak",
-        c: "web browser",
-        d: "empty",
+        question: "What is the full form of html.",
+        a: "Hyper Text Mark Lang",
+        b: "Hyper Text Mark Launguage",
+        c: "Hyper Text Markup Launguage",
+        d: "Hyper Text Mackup Launguage",
         correct: "c"
          
     },
@@ -14,24 +14,24 @@ let quiz =
         question: "Identify the range of byte data types in JavaScript.",
         a: "-10 to 9",
         b: "- 128 to 127",
-        c: "-32768 to 32767",
-        d: "-2147483648 to 2147483647",
+        c: "-32768 to 32744",
+        d: "-6355440837 to 6355440837",
         correct:"b"
     },
     {
-        question: " Among the following operators identify the one which is used to allocate memory to array variables in JavaScript.",
-        a: "new",
-        b: "new malloc",
-        c: "alloc",
-        d: "malloc",
+        question: "What is the full form of css.",
+        a: "Cascading Style Sheets",
+        b: "Cascading Style Sheet",
+        c: "Cascading Styles Sheets",
+        d: "Cascadings Style Sheets",
         correct:"a"
     },
     {
-        question: "Simple network management protocol uses which of the following port number",
-        a: "164",
-        b: "163", 
-        c: "160",
-        d: "161",
+        question: "Which is the Right Way to right HTML Code.",
+        a: "<head><body><html>",
+        b: "<head><html><body>", 
+        c: "<html><body><head>",
+        d: "<html><head><body>",
         correct:"d"
     },
     {
@@ -51,11 +51,11 @@ let quiz =
         correct: "d"
     },
     {
-        question: "World Wide Web consortium",
-        a: "<sup>",
-        b: "<br>",
-        c: "<p>",
-        d: "<abbr>",
+        question: "Which is the CSS Attribute?",
+        a: "<meta>",
+        b: "padding:",
+        c: "<margin:>",
+        d: "<p>",
         correct: "b"
     },
     {
@@ -71,7 +71,7 @@ let quiz =
         a: "HPPT",
         b: "HTTP",
         c: "HITTP",
-        d: "HTPP",
+        d: "HTTPS",
         correct: "b"
     },
     {
@@ -172,17 +172,17 @@ function It()
 let quiz1 =
 [
     {
-        question: "How many times has India won the Cricket World Cup?",
-        a: "2",
-        b: "3",
-        c: "4",
-        d: "1",
+        question: "When India Was Won First World Cup Title?",
+        a: "1983",
+        b: "1999",
+        c: "1994",
+        d: "1947",
         correct: "a"
     },
     {
         question: "Which Indian cricketer is also known as the 'God of Cricket'? ",
         a: "MS Dhoni",
-        b: "Yuvraj Singh",
+        b: "Sunil Gavaskar",
         c: "Virat Kohli",
         d: "Sachin Tendulkar",
         correct: "d"
@@ -192,7 +192,7 @@ let quiz1 =
         a: "Men in Blue",
         b: "The Team of Lions",
         c: "The Indian Army",
-        d: "None of the above",
+        d: "Men in Orange",
         correct: "a"
     },
     {
@@ -212,27 +212,27 @@ let quiz1 =
         correct: "c"
     },
     {
-        question: "How many times has India won the Asia Cup?",
+        question: "There is Howmany umpires in Cricket Match?",
         a: "5",
         b: "6",
-        c: "7",
+        c: "4",
         d: "8",
         correct: "c"
     },
     {
-        question: "Who is the current Captain of the Indian National Men's Cricket Team?",
-        a: "Virat Kohli",
+        question: "Who was the Current Last Captain of the Indian National Men's Cricket Team?",
+        a: "Rohit Sharma",
         b: "MS Dhoni",
-        c: "Rohit Sharma",
+        c: "Virat Kohli",
         d: "Roger Binny",
         correct: "c"
     },
     {
         question: "Sachin Tendulkar scored world's first 200 runs in ODI of __ balls.",
         a: "147",
-        b: "148",
-        c: "157",
-        d: "197",
+        b: "150",
+        c: "187",
+        d: "97",
         correct: "a"
     },
     {
@@ -244,11 +244,11 @@ let quiz1 =
         correct: "a"
     },
     {
-        question: "How many overs are played in Twenty20 cricket match?",
-        a: "50",
+        question: "How many overs are played in FIfty -  50 cricket match?",
+        a: "60",
         b: "20",
         c: "100",
-        d: "40",
+        d: "50",
         correct: "d"
     }
     
